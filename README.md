@@ -1,4 +1,5 @@
 <h1 align="center">Oii, eu sou o João 👋</h1>
+<h3 align="center">Estudante de Ciência da Computação | Full Stack Web Developer</h3>
 
 <p align="center">
   Desenvolvedor web Full Stack
