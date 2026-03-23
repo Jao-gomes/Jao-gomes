@@ -5,6 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:seuemail@gmail.com">jpgomesguilhon1402@gmail.com</a> •
-  <a href="https://linkedin.com">[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-gomes1401/)</a>
+  <a href="jpgomesguilhon1402@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/joão-gomes1401" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=radical"
+  />
 </p>
