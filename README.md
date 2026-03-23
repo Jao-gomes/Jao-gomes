@@ -6,6 +6,15 @@
   <a href="https://www.linkedin.com/in/joão-gomes1401" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>👩🏻‍💻 Sobre Mim</h3></legend>
+
+  <em>
+    Sou desenvolvedor web full stack formado pela Trybe e, atualmente, estudante do 3º semestre de <strong>Ciência da Computação</strong> na <strong>Universidade Veiga de Almeida</strong>. A tecnologia entrou       na minha vida no final do ensino       médio, quando descobri a Trybe — e desde então sigo nessa área. Tenho uma base sólida em desenvolvimento web.
+  </em>
+  <br>
+
 <div align= "center">
     <b><i>Tecnologias</i></b>
 </div>
