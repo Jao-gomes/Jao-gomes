@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Ciência da Computação | Full Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joão-gomes1401" target="_blank"><img target="_blank" src="https://skillicons.dev/icons?i=linkedin"/>></a>
+  <a href="https://www.linkedin.com/in/joão-gomes1401" target="_blank"><img target="_blank" src="https://skillicons.dev/icons?i=linkedin"/></a>
 </p>
 
 <div align="left">
