@@ -21,7 +21,7 @@
     <br>
     <br>
      <a href="https://skillicons.dev">
-        <img width="30px" src="https://skillicons.dev/icons?i=nodejs,php,ts,py" />
+        <img width="50px" src="https://skillicons.dev/icons?i=nodejs,php,ts,py" />
     </a>
   </kbd>
   <kbd>
@@ -29,7 +29,7 @@
     <br>
     <br>
     <a href="https://skillicons.dev">
-        <img width="30px" src="https://skillicons.dev/icons?i=js,html,css" />
+        <img width="50px" src="https://skillicons.dev/icons?i=js,html,css" />
     </a>
   </kbd>
   <kbd>
@@ -37,11 +37,10 @@
     <br>
     <br>
     <a href="https://skillicons.dev">
-        <img width="30px" src="https://skillicons.dev/icons?i=docker,react,redux,jest" />
+        <img width="50px" src="https://skillicons.dev/icons?i=docker,react,redux,jest" />
     </a>
   </kbd>
-  <br>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50"/><p align="center">
+  
 </div>
 
 <p align="center">
