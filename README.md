@@ -51,6 +51,6 @@
 <p align="center">
   <a href="https://github.com/Jao-gomes">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jao-gomes"
+    src="https://github-stats-extended.vercel.app/api?username=Jao-gomes&theme=radical"
   />
 </p>
